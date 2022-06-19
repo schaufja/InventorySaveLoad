@@ -13,8 +13,8 @@ ChatCommandSystem::ChatCommandManager@ g_ChatCommands = null;
 
 namespace SaveLoad 
 {
-	bool DEBUG_MODE = true; //enable console logs
-	bool DEBUG_VERBOSE = true; //enable extra console logs
+	bool DEBUG_MODE = false; //enable console logs
+	bool DEBUG_VERBOSE = false; //enable extra console logs
 
 	const string g_sFileName = "scripts/maps/store/saves.txt";
 	
