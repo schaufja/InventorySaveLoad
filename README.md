@@ -11,6 +11,6 @@ Commands:
 
 Credits in alphabetical order:
 
-H² - Scripting help
-Outerbeast - Scripting help
-Paranoid_AF - Jsona Library
+H² - Scripting help<br>
+Outerbeast - Scripting help<br>
+Paranoid-AF - Jsona Library(https://github.com/Paranoid-AF/Jsona)<br>
