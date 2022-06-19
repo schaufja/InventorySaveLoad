@@ -3,7 +3,7 @@
 * 
 * Created by The Seventh
 *
-* For map: lambdania
+* 
 */
 
 #include "../../ChatCommandManager"
