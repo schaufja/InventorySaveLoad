@@ -5,8 +5,8 @@ Intended for use in maps which use item_inventory 'tokens' to track player progr
 
 Commands:
 
-!save <save name>
-!load <save name>
+!save \<save name\><br>
+!load \<save name\><br>
 
 
 Credits in alphabetical order:
